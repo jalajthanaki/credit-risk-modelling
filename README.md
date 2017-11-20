@@ -14,7 +14,7 @@ We are building ML model which can help us in order get an idea, whether a perso
 * jupyter notebook
 
 ## Installation Commands
-I'm working on Linux OS so command for installation is given below.
+I'm working on Linux OS (Ubuntu 16.04 LTS) so command for installating all dependancies are given below.
 
 ```bash
 
